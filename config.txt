@@ -1,1 +1,1 @@
-app_title=My Project
+app_title=My Project Styled
